@@ -48,7 +48,7 @@ mpl.scatter(x,y,color='black')
 mpl.plot(x,y_predicted,color='purple')
 mpl.show()
 
-```
+
 ## Output:
 ![Screenshot 2024-09-17 192526](https://github.com/user-attachments/assets/094c8d36-46ba-474b-a9cd-9cf36e28c4a5)
 
