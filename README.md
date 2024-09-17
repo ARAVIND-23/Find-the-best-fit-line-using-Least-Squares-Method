@@ -50,8 +50,9 @@ mpl.show()
 
 ```
 ## Output:
-![best fit line](sam.png)
-![Screenshot 2024-09-17 192526](https://github.com/user-attachments/assets/f7d659cd-0af5-4924-b82b-3bd0eaed609b)
+
+![Screenshot 2024-09-17 192526](https://github.com/user-attachments/assets/e57fac0a-cc84-421c-8767-b478125e8e0d)
+
 
 
 ## Result:
